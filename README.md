@@ -14,10 +14,11 @@ A command-line Contact Management System developed in C that allows users to sto
 - Name
 - Phone number
 - Email address
-**Technologies Used**
+
+**Technologies Used:**
 - C
 - Visual Studio
-- Standard C Libraries
+- Standard C Libraries:
   - stdio.h
   - stdlib.h
   - string.h
