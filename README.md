@@ -1,4 +1,11 @@
 # Contact Management System
-
-* Developed a Contact Management System in C, implementing features such as adding, viewing, searching, editing, and deleting contacts.
-* Applied file handling, text processing skills, and string operations to store and manage contact information in text files.
+A command-line Contact Management System developed in C that allows users to store and manage contact information using text-file storage.
+# Features
+- Add new contacts
+- View all saved contacts
+- Search for contacts by name
+- Edit existing contact information
+- Delete individual contatcs
+- Delete all contatcts
+- Store contact information in a text file
+- Menu driven command line interface
