@@ -14,6 +14,7 @@ A command-line Contact Management System developed in C that allows users to sto
 - Name
 - Phone number
 - Email address
+  
 **Technologies Used:**
 - C
 - Visual Studio
